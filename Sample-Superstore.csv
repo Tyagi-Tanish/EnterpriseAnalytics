@@ -1,0 +1,6 @@
+Order ID,Order Date,Region,Category,Sub-Category,Sales,Profit,Quantity,Discount
+CA-2016-152156,2016-11-08,East,Furniture,Bookcases,261.96,41.91,2,0.0
+CA-2016-152157,2016-11-09,West,Technology,Phones,731.94,219.58,3,0.2
+CA-2016-152158,2016-11-10,Central,Office Supplies,Paper,14.62,6.87,2,0.0
+CA-2016-152159,2016-11-11,South,Furniture,Chairs,957.58,-383.03,5,0.45
+CA-2016-152160,2016-11-12,East,Technology,Accessories,22.37,2.52,1,0.0
